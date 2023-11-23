@@ -1,0 +1,30 @@
+.form-container{
+    max-width: 500px;
+    padding: 1rem;
+}
+
+h1{
+text-align: center;
+color: #DB6C00;
+}
+
+button{
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 14px;
+    border: 0px;
+    transition-duration: 0.4s;
+    
+}
+
+button:hover{
+    background-color: #194464;
+}
+
+img{
+    width: 30%;
+    margin-left: 35%;
+    padding: 10px;
+
+}
